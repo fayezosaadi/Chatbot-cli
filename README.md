@@ -14,6 +14,7 @@ Rival chatbot and attempt to answer its questions
   - If using Docker, run `docker run --name rival -p 27017:27017 -d mongo:4.1-xenial`
 
 ### Downloading the dependencies (node modules)
+- clone the repo
 - Install dependencies: `npm install` or `npm i` for short
 
 ### Data Migrations
